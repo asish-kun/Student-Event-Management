@@ -63,7 +63,7 @@ Our mission is to enhance school functioning by ensuring event announcements rea
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SEM.git
+   git clone https://github.com/dkumankumah/SEM.git
    ```
 2. Open in Android Studio
 3. Configure Firebase:
